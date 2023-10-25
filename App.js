@@ -179,7 +179,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Welcome">GHULLAM MUSTAFA ......................
-          What you happend</Section>
+          What you happend....</Section>
         </View>
       </ScrollView>
     </SafeAreaView>
