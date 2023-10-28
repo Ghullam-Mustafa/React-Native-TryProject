@@ -7,7 +7,7 @@ const App = () => {
   return (
     <View style={{flex:1, backgroundColor:"lightgreen",display:"flex", justifyContent:"center",alignItems:"center"}}>
       <StatusBar barStyle={backgroundColor="yellow"}/>
-      <Text style={{color:"white", fontSize:50}}>App Dveloper...</Text>
+      <Text style={{color:"white", fontSize:50}}>App Dveloper..</Text>
 
     </View>
 
